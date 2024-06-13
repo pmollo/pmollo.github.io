@@ -1,2 +1,1 @@
-# pmollo.github.io
-Academic website
+# Academic website
