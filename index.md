@@ -47,6 +47,8 @@ P. Mollo, Master thesis (2019)
 * [**Simulation de la diffusion de la lumière avec la méthode de Monte-Carlo**](./assets/docs/stagem1.pdf)\
 P. Mollo, internship report (2018)
 
+<hr>
+
 # More
 
 ### [Programmation and code](./code.md)

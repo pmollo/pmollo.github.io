@@ -2,7 +2,8 @@
 layout: default
 title: Teaching
 ---
-<hr>
+
+### [Home](./index.md)
 
 ## Teaching
 
