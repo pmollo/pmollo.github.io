@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<hr>
 
 # About me
 
@@ -20,13 +21,16 @@ it was funded by the
 [ANR project HANUMAN](http://salmon.perso.math.cnrs.fr/hanuman.html)
 (18-CE45-0014-01).
 
+### Research interst
+* Model Order reduction
+* Data assimilation
+* Finite Element Method
+
 <hr>
 
-# Research
+# Scientific work
 
-## Scientific work
-
-### Papers
+## Papers
 * [**Accurate Cerebral Venous Blood Flow Simulations Compared to Real Data**](https://hal.science/hal-04555008)
 P. Mollo, G. Dollé, S. Salmon. and O. Balédent (2024)
 * [**A component-based data assimilation strategy with applications to vascular flows**](https://www.esaim-proc.org/articles/proc/abs/2023/02/proc2307305/proc2307305.html)\
@@ -34,7 +38,7 @@ D.Q. Bui, P. Mollo, F. Nobile and T. Taddei. (2023)
 * [**Cerebral Venous Blood Flow Model Enhanced with Flow-MRI Data Assimilation**](https://hal.science/hal-04104522) \
 P. Mollo, G. Dollé, S. Salmon. and O. Balédent (2022)
 
-### Other
+## Other
 * [**Coupling 2D/3D fluid models with 0D Windkessel model via boundary condition**](https://hal.science/hal-04247891) \
 P. Mollo (2024)
 * [**Développement et analyse du modèle numérique du système crânio-spinal**](https://theses.fr/2023REIMS004)\ P.Mollo, PhD. Thesis (2023)
@@ -43,12 +47,12 @@ P. Mollo, Master thesis (2019)
 * [**Simulation de la diffusion de la lumière avec la méthode de Monte-Carlo**](./assets/docs/stagem1.pdf)\
 P. Mollo, internship report (2018)
 
-## More
+# More
 
-* [Programmation and code](./code.md)
-* [Communications](./presentations.md)
-* [Teaching activity](./teaching.md)
-* Galery
+### [Programmation and code](./code.md)
+### [Communications](./presentations.md)
+### [Teaching activity](./teaching.md)
+### Galery
 
 <hr>
 
