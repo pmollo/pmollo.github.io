@@ -4,13 +4,11 @@ Info:
 
     # Profile information
     name: Pierre Mollo
-    tagline: Doctorant en mathématiques appliquées
 
     # Sidebar links
     email: p.m.mollo[at]tue[dot]nl
-    website: pmollo.perso.math.cnrs.fr
     linkedin: pierre-mollo-8b5573173
-    github: Pmollo
+    github: pmollo
     gitlab: Pmollo1
 
     languages:
