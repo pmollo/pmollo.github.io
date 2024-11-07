@@ -7,8 +7,20 @@ title: Presentations
 
 ## Presentations
 
+### 2024
+
+* **Numerical Model of the Cerebral Venous Blood Flow using Real Biomedical Acquisitions**,
+[ECCOMAS](https://eccomas2024.org/),
+June 2024, Lisbon.
+* **Goal-Oriented Projection based Reduced Order Modeling**,
+[SIAM UQ](https://siamuq24.cimne.com/),
+February 2024, Triest.
+
 ### 2023
 
+* [**Multi-Fidelity Ensemble Kalman Method with Dynamic Mode Decomposition Surrogate**](https://hal.science/hal-04771818),
+[MORTech](https://mortech2023.sciencesconf.org/?lang=en),
+November 2023, ENS Paris-Saclay/CNRS/Université Paris-Saclay.
 * [**Biomedical modeling, Data Assimilation and Model Order Reduction**](./assets/pres/4tuami.pdf),
 [4TU.AMI summer event](https://www.4tu.nl/ami/Agenda-Events/summer-event-2023/),
 June 2023, TU Delft.
