@@ -57,5 +57,3 @@ P. Mollo, internship report (2018)
 ### Galery
 
 <hr>
-
-

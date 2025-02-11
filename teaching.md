@@ -52,3 +52,12 @@ Supervised research work: *Empirical interpolation method*,
 first year master of scientific computing.
 
 <hr>
+
+# More
+
+### [home](./index.md)
+### [Programmation and code](./code.md)
+### [Communications](./presentations.md)
+### Galery
+
+<hr>

@@ -7,6 +7,12 @@ title: Presentations
 
 ## Presentations
 
+### 2025
+
+* **Goal-Oriented Projection Based Model Order Reduction for Data Assimilation**,
+[DTE & AICOMAS](https://dte_aicomas_2025.iacm.info/),
+February 2025, Paris.
+
 ### 2024
 
 * **Numerical Model of the Cerebral Venous Blood Flow using Real Biomedical Acquisitions**,
@@ -68,3 +74,15 @@ June 2022, Laboratoire de Mathématiques de Reims.
 * **Maths-et-ma-thèse**, [Anti-Thèse](https://www.univ-reims.fr/bu
 /accueil-bibliotheques/l-anti-these-1,9200,42210.html), 
 November 2021, Bibliothèque Universitaire Moulin de la Housse.
+
+
+<hr>
+
+# More
+
+### [home](./index.md)
+### [Programmation and code](./code.md)
+### [Teaching activity](./teaching.md)
+### Galery
+
+<hr>
