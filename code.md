@@ -49,6 +49,7 @@ Standalone Python project to run light propagation simulation in simplified
 mutli-layer brain geometry,
 problem proposed and studied in [5].
 
+
 ## Reduced Order Modeling
 
 ### Reduced Basis Methods
@@ -56,8 +57,11 @@ problem proposed and studied in [5].
   * [FreeFEM version](https://gitlab.com/piemollo/rom/rbm/pod), 
   * [Octave version](https://gitlab.com/piemollo/rom/rbm/podmatlib), 
   * [Python version](https://gitlab.com/piemollo/rom/rbm/podpy)
+* [**RBM for a diffusion problem**](https://gitlab.com/piemollo/rom/rbm/rbm-thermal-circle)
+project with full Reduced Basis Method framework based on the thermal circle numerical model, 
+with a error estimate based on Successive Constraint Method (SCM, see [8]).
 * [**Reduced Basis Suite**](https://gitlab.com/piemollo/rom/rbm/rbs)
-FreeFem code to manage RB items [WiP].
+FreeFem code to manage RB items [depreciated].
 * [Old Reduced Basis Code](https://gitlab.com/piemollo/rom/rbm/old-rbm)
 FreeFem code to run Reduced Basis Method problems [depreciated].
 
@@ -87,9 +91,14 @@ Octave module to perform RBF interpolation with several kernel functions.
 
 ## Other numerical models
 * [**2d Graetz problem**](https://gitlab.com/piemollo/diffusion/graetz-2d)
-Standalone Python code to run 2d Graetz problem described in [7].
+Standalone Python project to run heat diffusion simulation with forced advection,
+problem proposed and studied in [7].
 * [**Thermal bloc problem**](https://gitlab.com/piemollo/diffusion/thermal-single-block)
 Standalone Python code to run thermal bloc problem described in [6].
+* [**Thermal Circle**](https://gitlab.com/piemollo/diffusion/thermal-cicle)
+Standalone Python project to run heat diffusion simulation in domain with a parameterized
+conductivity,
+problem proposed and studied in [7].
 
 ## Miscellaneous
 
@@ -134,6 +143,8 @@ May 14, 2019, arXiv: arXiv:1905.05817. doi: 10.48550/arXiv.1905.05817. \
 [7] J. S. Hesthaven, G. Rozza, and B. Stamm, Certified Reduced Basis Methods for Parametrized Partial 
 Differential Equations. in SpringerBriefs in Mathematics. 
 Cham: Springer International Publishing, 2016. doi: 10.1007/978-3-319-22470-1.
+[8] D. B. P. Huynh, D. J. Knezevic, Y. Chen, J. S. Hesthaven, and A. T. Patera, “A natural-norm Successive Constraint Method for inf-sup lower bounds,” Computer Methods in Applied Mechanics and Engineering, vol. 199, no. 29, pp. 1963–1975, Jun. 2010, doi: 10.1016/j.cma.2010.02.011.
+
 
 
 <hr>
